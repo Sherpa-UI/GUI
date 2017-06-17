@@ -1,9 +1,9 @@
 
 ![screenshot](./assets/logo.png)
 # Sherpa-UI 
-## A ReactVR Website Builder
+### A VR Website Builder
 
-Sherpa-UI allows you to rapidly create engaging experiences in VR that emulate traditional web-browsing.  
+Sherpa-UI allows you to rapidly create engaging experiences in VR that emulate traditional web-browsing with ReactVR.
 
 Built with React.JS and Electron, SherpaUI is for developers and non-developers alike.
 
