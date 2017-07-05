@@ -7,7 +7,7 @@
     "bundle": "cd reactVR && npm run bundle",
     "dist": "build",
     "pack": "build --dir",
-    "postinstall": "npm install && cd reactVR && npm install",
+    "postinstall": "cd reactVR && npm install",
     "vr": "node reactVR/node_modules/react-native/local-cli/cli.js start"
   },
   "preferGlobal": true,
