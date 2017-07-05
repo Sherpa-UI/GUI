@@ -1,6 +1,6 @@
 
 ![screenshot](./assets/logo.png)
-# Sherpa-UI 
+# Sherpa-UI
 ### A VR Website Builder
 
 Sherpa-UI allows you to rapidly create engaging experiences in VR that emulate traditional web-browsing with ReactVR.
@@ -19,20 +19,14 @@ ReactVR provides a 3D 'sphere' in which a camera is placed at the very center, a
 5. Bundle and export your completed project to your desktop with a button click.
 
 ## To run on your local machine
-* Fork or download repository `git clone *** `
-* cd into repository `cd Sherpa-UI`
+* Fork or download repository `git clone https://github.com/Sherpa-UI/GUI.git `
+* cd into app folder `cd GUI/sherpaUI/`
 * install dependencies `npm install`
 * run the app `npm start`
 
-### To open new image, click on 'change image' thumbnail in left column
+
 ###To build ReactVR project and export to desktop, click 'Publish Project'
 
- 
+
 ## Contributors
 [Aaron Goldsmith](https://github.com/AaronGoldsmith1) | [Alyssa Gaudioso](https://github.com/alyssagaudioso) | [Josh Wolters](https://github.com/joshwolters12)  
-
-
-
-
- 
-
