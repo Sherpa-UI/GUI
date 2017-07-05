@@ -1,0 +1,111 @@
+{
+  "projectName": "testingh6",
+  "currScene": "starry-sky",
+  "currFrame": "front",
+  "currTemplate": "TitleFrame",
+  "loadURL": "http://localhost:8081/vr/?1499125643230",
+  "projectPath": "/Users/joshuawolters/Desktop/testingh6/testingh6.json",
+  "scenes": {
+    "island-garden": {
+      "imageURL": "island-garden.jpg",
+      "frames": {
+        "front": {
+          "template": "TextFrame",
+          "title": "FRONT FRONT FRONT",
+          "subtitle": "FRONT FRONT FRONT",
+          "navleft": "left",
+          "navright": "right",
+          "text": "sajhdfjlas"
+        },
+        "right": {
+          "template": "TextFrame",
+          "title": "RIGHT RIGHT RIGHT",
+          "text": "RIGHT RIGHT RIGHT",
+          "navleft": "left",
+          "navright": "right"
+        },
+        "back": {
+          "template": "None",
+          "title": "Hello World update all the time?",
+          "text": "BACK BACK BACK",
+          "navleft": "left",
+          "navright": "right"
+        },
+        "left": {
+          "template": "TitleFrame",
+          "title": "Hello World",
+          "text": "LEFT LEFT LEFT",
+          "navleft": "left",
+          "navright": "right"
+        }
+      }
+    },
+    "starry-sky": {
+      "imageURL": "winter-outdoor.jpg",
+      "frames": {
+        "front": {
+          "template": "TitleFrame",
+          "title": "WINTERTITLE",
+          "subtitle": "FRONT FRONT FRONT",
+          "navleft": "left",
+          "navright": "right"
+        },
+        "right": {
+          "template": "TextFrame",
+          "title": "WINTER",
+          "text": "RIGHT RIGHT RIGHT",
+          "navleft": "left",
+          "navright": "right"
+        },
+        "back": {
+          "template": "TitleFrame",
+          "title": "SNOWMAN",
+          "text": "BACK BACK BACK",
+          "navleft": "left",
+          "navright": "right"
+        },
+        "left": {
+          "template": "TextFrame",
+          "title": "WINTER",
+          "text": "LEFT LEFT LEFT",
+          "navleft": "left",
+          "navright": "right"
+        }
+      }
+    },
+    "light-show": {
+      "imageURL": "light-show.jpg",
+      "frames": {
+        "front": {
+          "template": "TitleFrame",
+          "title": "LIGHT SHOWS IN THE PARK",
+          "subtitle": "FRONT FRONT FRONT",
+          "navleft": "left",
+          "navright": "right"
+        },
+        "right": {
+          "template": "TextFrame",
+          "title": "LIGHT SHOWS IN THE BLEACHERS",
+          "text": "RIGHT RIGHT RIGHT",
+          "navleft": "left",
+          "navright": "right"
+        },
+        "back": {
+          "template": "TextFrame",
+          "title": "LIGHT SHOWS IN YOUR PARENTS GARAGE",
+          "text": "BACK BACK BACK",
+          "navleft": "left",
+          "navright": "right"
+        },
+        "left": {
+          "template": "TextFrame",
+          "title": "LIGHT SHOWS IN YOUR BED",
+          "text": "LEFT LEFT LEFT",
+          "navleft": "left",
+          "navright": "right"
+        }
+      }
+    }
+  },
+  "publishingStatus": "Publish Project"
+}
