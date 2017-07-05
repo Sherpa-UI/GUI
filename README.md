@@ -25,7 +25,7 @@ ReactVR provides a 3D 'sphere' in which a camera is placed at the very center, a
 * run the app `npm start`
 
 
-###To build ReactVR project and export to desktop, click 'Publish Project'
+### To build ReactVR project and export to desktop, click 'Publish Project'
 
 
 ## Contributors
